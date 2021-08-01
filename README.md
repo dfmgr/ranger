@@ -5,7 +5,7 @@ text-based file manager
 Automatic install/update:
 
 ```shell
-bash -c "$(curl -LSs https://github.com/dfmgr/ranger/raw/master/install.sh)"
+bash -c "$(curl -LSs https://github.com/dfmgr/ranger/raw/main/install.sh)"
 ```
 
 Manual install:
